@@ -1,0 +1,29 @@
+body{
+  background-image: url("wallpaper.jpg");
+}
+
+div{
+  width: 600px;
+  height: 300px;
+  margin: auto 0px;
+  background-color: white;
+  background-image: url("avocado.jpg");
+  background-repeat: repeat-y;
+  overflow: scroll;
+}
+
+.satu{
+  text-align: right;
+  color: blue;
+}
+
+.dua{
+  text-align: left;
+  color: green;
+}
+
+.tiga{
+  margin-right: 10px;
+  text-align: right;
+  color: red;
+}
